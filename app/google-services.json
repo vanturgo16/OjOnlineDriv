@@ -1,0 +1,864 @@
+{
+  "project_info": {
+    "project_number": "306072190540",
+    "firebase_url": "https://coba-autentikasi.firebaseio.com",
+    "project_id": "coba-autentikasi",
+    "storage_bucket": "coba-autentikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:dfd21e192d625c97",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.autentikasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-sp7m33uaprdok8gbppgq153jb1coocbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.imastudio.autentikasifirebase",
+            "certificate_hash": "f525e44c2f1a884b0080f3dcf27388a5e5db919a"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:7c0c193481aa0dc7",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.admobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-b6g913b5e61kr2p1vq1f00cubflbrm1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.imastudio.admobapp",
+            "certificate_hash": "8c75722f9c336e363d514644e355288084c01552"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:8e9452af74011bca",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.chatandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-hfni8hb4ubeqokm1gguq82n8jj67lskn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.imastudio.chatandroid",
+            "certificate_hash": "8c75722f9c336e363d514644e355288084c01552"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:d03ef5274d360e6a",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-kgal743croo0r9r1eiqg5gre6kibt831.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.imastudio.chat",
+            "certificate_hash": "8c75722f9c336e363d514644e355288084c01552"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:2e44524b6dfcea50",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.cobafcm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:3ac8c7ed809444e5",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.driverojek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:0bc1458ef8411939",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.driverojekk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:a568717d8d4139ea",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.kangojek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:185c39668db81d4d",
+        "android_client_info": {
+          "package_name": "batam.transfood.driver.drivertransfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:c6e9fbbce3a77f7c",
+        "android_client_info": {
+          "package_name": "batam.transfood.tenant.hotelt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:ad8db3ae6f8ede8f",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:e7312798bdf72b2f",
+        "android_client_info": {
+          "package_name": "pm.ima.poenya.batam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-dvihlg0ndv3aa5o4ll54auso5cq16lde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pm.ima.poenya.batam",
+            "certificate_hash": "8c75722f9c336e363d514644e355288084c01552"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:44a066c14d2aadb9",
+        "android_client_info": {
+          "package_name": "batam.transfood.tenant.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:81347ffb22f516a3",
+        "android_client_info": {
+          "package_name": "batam.transfood.tenant.entertain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:184e865078833a7a",
+        "android_client_info": {
+          "package_name": "batam.transfood.tenant.cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:cd26010f4a8f7747",
+        "android_client_info": {
+          "package_name": "com.imastudio.DriverGogojack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:ca06881c219fd36f",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-dt9staholplv41vve470724rbl7b94ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.imastudio.loginregisterfirebase",
+            "certificate_hash": "32619028e414d5ce0c202ed6398ffae54edbb6d0"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:84e10e74ca652e95",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.databasefirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:5a4976d2fe14071c",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.Kangojek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:5373896c194807bd",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.admobap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:4d0e0daf4d9d8822",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.driverojekonlinecourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-sgt8opj6tf8j9f9561l9833hso35hv0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.imastudio.driverojekonlinecourse",
+            "certificate_hash": "ff18bb866647836ee0d53358117231321bd212b3"
+          }
+        },
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306072190540-2oen3q3b5e57h2m5qema1p4ittj0u3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.Firebase-ios"
+              }
+            },
+            {
+              "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:d859c7b0212db8eb",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.driverbangojek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306072190540:android:78ed788c55e28023",
+        "android_client_info": {
+          "package_name": "id.co.imastudio.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306072190540-0g1bg59uiq9rct86jm4a1ni4n7nleih5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXcv-yHq3BfQff4Sq5_UMJ3SNrClX8J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
