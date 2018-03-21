@@ -53,7 +53,7 @@ public class Finddriver extends AppCompatActivity {
         
     }
 
-    private void checkBooking() {
+    private void  checkBooking() {
         String idbooking = String.valueOf(id);
         InitLibrary.getInstance().request_check(idbooking).enqueue(new Callback<ResponseCheckBooking>() {
             @Override
@@ -143,7 +143,7 @@ public class Finddriver extends AppCompatActivity {
                 });
 
             }
-        },0,3000);
+        },1000,3000);
     }
 
     @Override

@@ -53,7 +53,8 @@ public interface ApiService{
             @POST("get_request_booking")
             Call<Response> history(
                                    @Field("f_token") String token,
-                                   @Field("f_device") String device);
+                                   @Field("f_device") String device,
+           @Field("f_idUser") String iddriver);
 
             @FormUrlEncoded
             @POST("get_handle_booking")
@@ -113,7 +114,7 @@ public interface ApiService{
             @Field("f_latAkhir") String latakhir,
             @Field("f_lngAkhir") String lngakhir,
             @Field("f_akhir") String akhir ,
-            @Field("f_tarif")String tarif,
+            @Field("f_alamat")String tarif,
             @Field("f_jarak") String jarak,
 
             @Field("f_token") String token ,
@@ -123,7 +124,7 @@ public interface ApiService{
     @FormUrlEncoded
     @POST("login_driver")
     Call<ResponseLogin> ini_login(  @Field("f_email") String phone,
-                                    @Field("f_password") String email,
+                                        @Field("f_password") String email,
                                     @Field("device") String device);
 
 

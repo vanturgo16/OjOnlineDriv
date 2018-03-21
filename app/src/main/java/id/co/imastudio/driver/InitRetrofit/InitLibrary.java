@@ -13,7 +13,7 @@ public class InitLibrary {
 
     public static Retrofit setInit() {
 
-        return new Retrofit.Builder().baseUrl("http://udakita.com/ojeg_server/api/")
+        return new Retrofit.Builder().baseUrl("http://latihan.bengkuluprov.go.id/ojeg_server/api/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

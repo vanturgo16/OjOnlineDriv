@@ -66,7 +66,7 @@ public class RequestFragment extends Fragment {
         String iduser = sesi.getIdUser();
         String token = sesi.getToken();
         String device = HeroHelper.getDeviceUUID(getActivity());
-        InitLibrary.getInstance().history(token,device)
+        InitLibrary.getInstance().history(token,device,iduser)
         .enqueue(new Callback<Response>() {
             @Override
             public void onResponse(Call<Response> call, retrofit2.Response<Response> response) {
